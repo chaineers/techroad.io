@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "techroad.io",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "TECHROAD - HR innovation",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
