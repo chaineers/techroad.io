@@ -6,8 +6,11 @@
     var chain_status_html = `
       <section class="mbr-section info1 chain_status" style="background-color:#ffffff">
         <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+             Coin Status 
+           </h2><br>
           <div class="row justify-content-center content-row">
-
+           
             <div class="col-6 col-lg-3 col-md-6 text-center" >
               <strong>Blocks</strong>
               <p id="chain_blocks"></p>
