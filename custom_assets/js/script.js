@@ -4,7 +4,7 @@
 
   var insert_chain_status_html = function() {
     var chain_status_html = `
-      <section class="mbr-section info1 chain_status">
+      <section class="mbr-section info1 chain_status" style="background-color:#ffffff">
         <div class="container">
           <div class="row justify-content-center content-row">
 
@@ -36,7 +36,7 @@
       </section>
     `;
     $("section.chain_status").remove();
-    $("section#footer1-2").before(chain_status_html);
+    $("section#toggle1-9").before(chain_status_html);
   }
 
   var fill_chain_summary = function() {
